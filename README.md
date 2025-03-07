@@ -15,7 +15,7 @@ Este é um script em Python que permite criar playlists no Spotify de maneira au
 📋 Pré-requisitos:
 Antes de executar o script, você precisa ter:
 1️⃣ Python 3 instalado.
-2️⃣ Conta no Spotify Developer. Credenciais da API do Spotify (Client ID, Client Secret e Redirect URI).
+2️⃣ Conta no Spotify Developer. Credenciais da API do Spotify (Client ID, Client Secret e Redirect URI = http://localhost:8888/callback).
 3️⃣ Biblioteca spotipy instalada. Para instalar a biblioteca necessária, execute o comando: pip install spotipy.
 
 🛠 Configuração
@@ -65,7 +65,7 @@ This is a Python script that allows you to create Spotify playlists automaticall
 📋 Prerequisites:
 Before running the script, you need:
 1️⃣ Python 3 installed.
-2️⃣ A Spotify Developer account. Spotify API credentials (Client ID, Client Secret, and Redirect URI).
+2️⃣ A Spotify Developer account. Spotify API credentials (Client ID, Client Secret, and Redirect URI = http://localhost:8888/callback).
 3️⃣ The spotipy library installed. To install the required library, run the command: pip install spotipy.
 
 🛠 Setup
